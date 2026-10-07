@@ -35,4 +35,5 @@ Our development framework is divided into three primary technical departments:
 🌐 Connect & Community
 ​Platform: Team Antariksh
 ​Official Discord: Mission VikramSAT Community
+Joining Link:https://discord.gg/hyFCfyHeK
 ​​Built with passion by sudents across India for the future of space exploration. 🇮🇳🚀
