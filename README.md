@@ -24,3 +24,15 @@ Our development framework is divided into three primary technical departments:
 3. **Structure & Systems**
    * Mechanical chassis and structural framework design (CAD modeling).
    * Thermal management, vibration tolerance, and component integration.
+
+🤝 **How to Contribute:**
+
+​We are actively looking for dedicated contributors across India who specialize in programming, circuit design, structural engineering, or aerospace systems.
+​Explore Issues: Check open issues in our repository or propose new features/subsystem designs.
+​Fork & Pull Request: Fork the repository, create a feature branch, commit your code cleanly, and open a Pull Request.
+​Join the Mission Control: Connect with the core team and fellow contributors on our official Discord server.
+​---
+🌐 Connect & Community
+​Platform: Team Antariksh
+​Official Discord: Mission VikramSAT Community
+​​Built with passion by sudents across India for the future of space exploration. 🇮🇳🚀
