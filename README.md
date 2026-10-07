@@ -32,8 +32,12 @@ Our development framework is divided into three primary technical departments:
 ​Fork & Pull Request: Fork the repository, create a feature branch, commit your code cleanly, and open a Pull Request.
 ​Join the Mission Control: Connect with the core team and fellow contributors on our official Discord server.
 ​---
-🌐 Connect & Community
-​Platform: Team Antariksh
-​Official Discord: Mission VikramSAT Community
+🌐 **Connect & Community:**
+
+​By:Team Antariksh
+​
+Official Discord: Mission VikramSAT Community
+
 Joining Link:https://discord.gg/hyFCfyHeK
-​​Built with passion by sudents across India for the future of space exploration. 🇮🇳🚀
+​​
+Built with passion by sudents across India for the future of space exploration. 🇮🇳🚀
